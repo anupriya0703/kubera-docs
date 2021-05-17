@@ -10,7 +10,7 @@ versions:
 
 
 
-Chaos engineering plays a vital role in increasing the resilience of today’s  cloud native, highly dynamic applications and infrastructure. 
+eChaos engineering plays a vital role in increasing the resilience of today’s  cloud native, highly dynamic applications and infrastructure. 
 Kubernetes developers and SREs use Kubera Chaos to increase application resilience by practicing chaos engineering through pre-defined chaos workflows and chaos monitoring tools. 
 Kubera Chaos is the enterprise edition of the broadly used open source chaos engineering platform LitmusChaos.
 
